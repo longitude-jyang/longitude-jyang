@@ -30,6 +30,16 @@ The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twin
 - [Reviewer for Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)
 <!-- Reviewer-LIST:END -->
 
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/longitude-jyang/longitude-jyang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longitude-jyang&hide=java,html&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/longitude-jyang/longitude-jyang">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=longitude-jyang&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="Jiannan's GitHub Stats" />
+</a>
+
 [1]: http://www.eng.cam.ac.uk/profiles/jy419
 [2]: https://www.researchgate.net/profile/Jiannan-Yang-2
 [3]: https://www.linkedin.com/in/jiannan-yang-935a0074
