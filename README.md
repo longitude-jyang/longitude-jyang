@@ -23,6 +23,13 @@ The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twin
 - [ISVR seminar, University of Southampton, 25th Jan 2022](/../../../../longitude-jyang/notes/blob/main/Talks/ISVRseminar_25012022_JYang.pdf)
 <!-- Talk-LIST:END -->
 
+## :microscope: Academic Service
+<!-- Reviewer-LIST:START -->
+- [Reviewer for Journal of Sound and Vibration](https://www.journals.elsevier.com/journal-of-sound-and-vibration)
+- [Reviewer for Applied Mathematical Modelling](https://www.journals.elsevier.com/applied-mathematical-modelling)
+- [Reviewer for Journal of Vibration and Control](https://journals.sagepub.com/home/jvc)
+<!-- Reviewer-LIST:END -->
+
 [1]: http://www.eng.cam.ac.uk/profiles/jy419
 [2]: https://www.researchgate.net/profile/Jiannan-Yang-2
 [3]: https://www.linkedin.com/in/jiannan-yang-935a0074
