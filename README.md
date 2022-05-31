@@ -4,7 +4,12 @@
 
 Hi there 👋
 
-I am a researcher at University of Cambridge, UK. 
+I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision makings. 
+
+## 📕 Latest Research Outputs
+<!-- Paper-LIST:START -->
+- [Digital twins for design in the presence of uncertaintities](https://doi.org/10.1016/j.ymssp.2022.109338)
+<!-- Paper-LIST:END -->
 
 [1]: http://www.eng.cam.ac.uk/profiles/jy419
 [2]: https://www.researchgate.net/profile/Jiannan-Yang-2
