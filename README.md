@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision makings. 
+I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. I have worked six years in industry on rolling stock noise and vibration control. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision makings. 
 
 ## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
