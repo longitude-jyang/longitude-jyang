@@ -1,3 +1,5 @@
+![Alt Text](/../../../../longitude-jyang/notes/blob/main/Other/cuedimage.jfif)
+
 [![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)][1]
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Me-FAC151?&logo=ResearchGate&logoWidth=20)][2]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-FAC151?&logo=linkedin&logoWidth=20)][3]
