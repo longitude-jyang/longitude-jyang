@@ -1,4 +1,4 @@
-<img src="/../../../../longitude-jyang/notes/blob/main/Other/cuedimage.jfif" width="800" height="300">
+[<img src="/../../../../longitude-jyang/notes/blob/main/Other/cuedimage.jfif" width="800" height="300">][1]
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)][1]
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Me-FAC151?&logo=ResearchGate&logoWidth=20)][2]
@@ -7,6 +7,10 @@
 Hi there 👋
 
 I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. I have worked six years in industry on rolling stock noise and vibration control. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision makings. 
+
+
+## :abacus: Current Project
+The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twins for improved dynamic design](https://digitwin.ac.uk/)
 
 ## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
