@@ -6,11 +6,16 @@ Hi there 👋
 
 I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision makings. 
 
-## 📕 Latest Research Outputs
+## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
 - [Digital twins for design in the presence of uncertaintities, Nov 2022, MSSP](https://doi.org/10.1016/j.ymssp.2022.109338)
 - [Combined sensitivity for multiple failure modes, May 2022, CMAME](https://doi.org/10.1016/j.cma.2022.115030)
 <!-- Paper-LIST:END -->
+
+## :studio_microphone: Recent Talks
+<!-- Talk-LIST:START -->
+- [ISVR seminar, University of Southampton, 25th Jan 2022](/../../../../longitude-jyang/notes/blob/main/Talks/ISVRseminar_25012022_JYang.pdf)
+<!-- Talk-LIST:END -->
 
 [1]: http://www.eng.cam.ac.uk/profiles/jy419
 [2]: https://www.researchgate.net/profile/Jiannan-Yang-2
