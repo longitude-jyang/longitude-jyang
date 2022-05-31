@@ -1,10 +1,12 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)][1]
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Me-FAC151?&logo=ResearchGate&logoWidth=20)][2]
 
 Hi there 👋
 
 I am a researcher at University of Cambridge, UK. 
 
 [1]: http://www.eng.cam.ac.uk/profiles/jy419
+[2]: https://www.researchgate.net/profile/Jiannan-Yang-2
 
 <!--
 **longitude-jyang/longitude-jyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
