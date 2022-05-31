@@ -1,10 +1,10 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)
+[![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)][1]
 
 Hi there 👋
 
 I am a researcher at University of Cambridge, UK. 
 
-
+[1]: http://www.eng.cam.ac.uk/profiles/jy419
 
 <!--
 **longitude-jyang/longitude-jyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
