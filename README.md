@@ -1,4 +1,4 @@
-<img src="/../../../../longitude-jyang/notes/blob/main/Other/cuedimage.jfif" width="900">
+<img src="/../../../../longitude-jyang/notes/blob/main/Other/cuedimage.jfif" width="800" height="300">
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)][1]
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Me-FAC151?&logo=ResearchGate&logoWidth=20)][2]
