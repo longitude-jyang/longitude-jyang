@@ -12,7 +12,7 @@ I am a researcher at University of Cambridge, UK. My background is in mechanics 
 - [Combined sensitivity for multiple failure modes, May 2022, CMAME](https://doi.org/10.1016/j.cma.2022.115030)
 <!-- Paper-LIST:END -->
 
-## :studio_microphone: Recent Talks
+## :studio_microphone: Recent Invited Talks
 <!-- Talk-LIST:START -->
 - [ISVR seminar, University of Southampton, 25th Jan 2022](/../../../../longitude-jyang/notes/blob/main/Talks/ISVRseminar_25012022_JYang.pdf)
 <!-- Talk-LIST:END -->
