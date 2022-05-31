@@ -8,7 +8,8 @@ I am a researcher at University of Cambridge, UK. My background is in mechanics 
 
 ## 📕 Latest Research Outputs
 <!-- Paper-LIST:START -->
-- [Digital twins for design in the presence of uncertaintities](https://doi.org/10.1016/j.ymssp.2022.109338)
+- [Digital twins for design in the presence of uncertaintities, Nov 2022, MSSP](https://doi.org/10.1016/j.ymssp.2022.109338)
+- [Combined sensitivity for multiple failure modes, May 2022, CMAME](https://doi.org/10.1016/j.cma.2022.115030)
 <!-- Paper-LIST:END -->
 
 [1]: http://www.eng.cam.ac.uk/profiles/jy419
