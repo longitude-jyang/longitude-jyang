@@ -1,5 +1,6 @@
 [<img src="/../../../../longitude-jyang/notes/blob/main/Other/cuedimage.jfif" width="800" height="300">][1]
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flongitude-jyang&count_bg=%23FAC151&title_bg=%23555555&title=Hits&edge_flat=false)][1]
 [![GitHub Views](https://komarev.com/ghpvc/?username=longitude-jyang&color=FAC151)][1]
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow%20Me-FAC151?&logo=ResearchGate&logoWidth=20)][2]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-FAC151?&logo=linkedin&logoWidth=20)][3]
