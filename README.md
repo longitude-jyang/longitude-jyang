@@ -15,8 +15,12 @@ The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twin
 
 ## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
-- [Digital twins for design in the presence of uncertaintities, Nov 2022, MSSP](https://doi.org/10.1016/j.ymssp.2022.109338)
-- [Combined sensitivity for multiple failure modes, May 2022, CMAME](https://doi.org/10.1016/j.cma.2022.115030)
+- Yang, J. et al. Digital twins for design in the presence of uncertainties. Mechanical Systems and Signal Processing 179, 109338 (2022).
+  - available as [open access](https://doi.org/10.1016/j.ymssp.2022.109338)
+  - the data and code for this paper can be found [here](/../../../../longitude-jyang/TEDS-ToolboxEngineeringDesignSensitivity) 
+- Yang, J. et al. Combined sensitivity analysis for multiple failure modes. Computer Methods in Applied Mechanics and Engineering 395, 115030 (2022).
+  - available as [open access](https://doi.org/10.1016/j.cma.2022.115030)
+  - the data and code for this paper can be found [here](/../../../../longitude-jyang/CombinedSensitivity4MultipleFailure) 
 <!-- Paper-LIST:END -->
 
 ## :studio_microphone: Recent Invited Talks
