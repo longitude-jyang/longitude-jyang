@@ -7,7 +7,7 @@
 
 Hi there 👋
 
-I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. I have worked six years in industry on rolling stock noise and vibration control. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision makings. 
+I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. I have worked six years in industry on rolling stock noise and vibration control. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision-making. 
 
 
 ## :abacus: Current Project
@@ -15,10 +15,13 @@ The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twin
 
 ## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
-- Yang, J. et al. Digital twins for design in the presence of uncertainties. Mechanical Systems and Signal Processing 179, 109338 (2022).
+- Yang, Jiannan. A general framework for probabilistic sensitivity analysis with respect to distribution parameters. Probabilistic Engineering Mechanics 72, 103433 (2023).
+  - available as [open access](https://doi.org/10.1016/j.probengmech.2023.103433)
+  - the data and code for this paper can be found [here](/../../../../longitude-jyang/Probabilistic-sensitivity-framework) 
+- Yang, Jiannan., et al. Digital twins for design in the presence of uncertainties. Mechanical Systems and Signal Processing 179, 109338 (2022).
   - available as [open access](https://doi.org/10.1016/j.ymssp.2022.109338)
   - the data and code for this paper can be found [here](/../../../../longitude-jyang/TEDS-ToolboxEngineeringDesignSensitivity) 
-- Yang, J. et al. Combined sensitivity analysis for multiple failure modes. Computer Methods in Applied Mechanics and Engineering 395, 115030 (2022).
+- Yang, Jiannan., et al. Combined sensitivity analysis for multiple failure modes. Computer Methods in Applied Mechanics and Engineering 395, 115030 (2022).
   - available as [open access](https://doi.org/10.1016/j.cma.2022.115030)
   - the data and code for this paper can be found [here](/../../../../longitude-jyang/CombinedSensitivity4MultipleFailure) 
 <!-- Paper-LIST:END -->
