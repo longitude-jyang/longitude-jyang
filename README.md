@@ -15,7 +15,7 @@ The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twin
 
 ## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
-- Yang, Jiannan. Decision-Oriented Two-Parameter Fisher Information Sensitivity Using Symplectic Decomposition, Technometrics
+- Yang, Jiannan. Decision-Oriented Two-Parameter Fisher Information Sensitivity Using Symplectic Decomposition, Technometrics (2023)
   - available as [open access](https://doi.org/10.1080/00401706.2023.2216251)
 - Yang, Jiannan. A general framework for probabilistic sensitivity analysis with respect to distribution parameters. Probabilistic Engineering Mechanics 72, 103433 (2023).
   - available as [open access](https://doi.org/10.1016/j.probengmech.2023.103433)
