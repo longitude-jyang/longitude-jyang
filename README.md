@@ -7,7 +7,7 @@
 
 Hi there 👋
 
-I am a Lecturer at the [School of Physics, Engineering and Technology](https://www.york.ac.uk/physics-engineering-technology/), University of York, UK. I have a PhD in Sound and Vibration. In addition to the 6 years working in industry for Hitachi on railway noise and vibration control, I have also conducted fundamental research into the design of digital twins at the Engineering Department, University of Cambridge. My research interest is in understanding the interaction among model, data and uncertainty, in order to develop digital design methodologies to support decision-making. 
+I am a Lecturer at the [School of Physics, Engineering and Technology, University of York, UK](https://www.york.ac.uk/physics-engineering-technology/). I have a PhD in Sound and Vibration. In addition to the 6 years working in industry for [Hitachi](https://www.hitachi.com/rd/) on railway noise and vibration control, I have also conducted fundamental research into the design of digital twins at the [Engineering Department, University of Cambridge](http://www.eng.cam.ac.uk/). My research interest is in understanding the interaction among model, data and uncertainty, in order to develop digital design methodologies to support decision-making. 
 
 
 ## :abacus: Recent Completed Project
