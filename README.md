@@ -7,11 +7,11 @@
 
 Hi there 👋
 
-I am a researcher at University of Cambridge, UK. My background is in mechanics and acoustics. I have worked six years in industry on rolling stock noise and vibration control. My current interest is in understanding how best use of computational models in engineering design, and more generally in decision-making. 
+I am a Lecturer at the [School of Physics, Engineering and Technology](https://www.york.ac.uk/physics-engineering-technology/), University of York, UK. I have a PhD in Sound and Vibration. In addition to the 6 years working in industry for Hitachi on railway noise and vibration control, I have also conducted fundamental research into the design of digital twins at the Engineering Department, University of Cambridge. My research interest is in understanding the interaction among model, data and uncertainty, in order to develop digital design methodologies to support decision-making. 
 
 
-## :abacus: Current Project
-The project I am curretly working on is the EPSRC funded [DigiTwin: Digital twins for improved dynamic design](https://digitwin.ac.uk/)
+## :abacus: Recent Completed Project
+EPSRC funded [DigiTwin: Digital twins for improved dynamic design](https://digitwin.ac.uk/)
 
 ## :notebook: Latest Research Papers
 <!-- Paper-LIST:START -->
